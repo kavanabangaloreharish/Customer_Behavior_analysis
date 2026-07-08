@@ -1,0 +1,5 @@
+Python libraries This project needs
+
+pandas
+sqlalchemy
+pymysql
